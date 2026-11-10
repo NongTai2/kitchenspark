@@ -1,4 +1,5 @@
 KitchenSpark
+
 KitchenSpark is a recipe and cooking inspiration application.
 
 Features:
